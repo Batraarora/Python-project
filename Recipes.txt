@@ -5,4 +5,7 @@ Pasta
 Maggi
 Chicken Fry
 
+Pizza
+Burger
+
 Thank You
